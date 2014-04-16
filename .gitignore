@@ -1,0 +1,4 @@
+build/*
+*~
+dist.rb
+sync.sh
